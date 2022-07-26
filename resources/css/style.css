@@ -26,6 +26,9 @@ html{
         opacity: 1;
     }
 }
+body{
+    background-color: #7ae9da;
+}
 
 header{
     display: flex;
@@ -38,7 +41,7 @@ header{
 
     margin: 0 auto;
 
-    background-color: #F3F2F2;
+    background-color: #7ae9da;
 }
 /* -------- LOGO -------- */
 .logo{
